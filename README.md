@@ -10,6 +10,16 @@ Nossa missão é hospedar uma intervenção cultural que leva as pessoas a pensa
 
 ***Este documento (o arquivo README.md) é um hub para fornecer algumas informações sobre a iniciativa. Navegue em uma das seções abaixo, ou simplesmente role para baixo para descobrir mais.***
 
+# Índice
+* [Bem-vindo!](#glass-room-experience-brasil-)
+* [O que nós estamos fazendo? (E porque?)](#o-que-nós-estamos-fazendo-e-por-que)
+* [Participe](#participe)
+* [Contribua](#contribua)
+* [Código de Conduta](#código-de-conduta)
+* [Time](#equipe)
+* [Contato](#contato)
+* [Glossário](#glossário)
+
 # O que nós estamos fazendo? E por que?
 Uma Internet saudável é segura e privativa! A Internet só se mantém saudável se confiarmos nela como um lugar seguro para explorar, negociar, conectar e criar. Nossa privacidade e segurança on-line estão sob constante ameaça. Mas há algo que você pode fazer sobre isso: **informe-se, proteja-se e faça-os ouvir a sua voz** e ao levar a **Glass Room Experience** para cidades de todo o Brasil usamos a arte, uma intervenção cultural que leva as pessoas a pensar sobre como seus dados são gerados, colhidos, negociados e vendidos todos os dias.
 
@@ -31,7 +41,7 @@ A equipe da Glass Room Experience no Brasil tem a responsabilidade de manter o p
 - [Geraldo Barros](https://reps.mozilla.org/u/geraldobarros/)
 
 # Contato
-Você pode falar com qualquer membro da equipe diretamente ou se preferir pode contatar toda a equipe via glassroom (at) mozillabr.org.
+Você pode falar com qualquer membro da equipe diretamente ou se preferir pode contatar toda a equipe por e-mail via glassroom (arroba) mozillabr.org.
 
 # Glossário
 - **Hub**: Central de informações
