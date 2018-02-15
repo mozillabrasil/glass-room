@@ -16,7 +16,7 @@ Nossa missão é hospedar uma intervenção cultural que leva as pessoas a pensa
 * [Participe](#participe)
 * [Contribua](#contribua)
 * [Código de Conduta](#código-de-conduta)
-* [Time](#equipe)
+* [Equipe](#equipe)
 * [Contato](#contato)
 * [Glossário](#glossário)
 
